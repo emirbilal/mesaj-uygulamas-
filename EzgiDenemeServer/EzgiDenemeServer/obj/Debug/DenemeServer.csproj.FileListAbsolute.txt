@@ -1,0 +1,12 @@
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\DenemeServer.exe.config
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\DenemeServer.exe
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\DenemeServer.pdb
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\DenemeServer.Form1.resources
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\DenemeServer.Properties.Resources.resources
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\DenemeServer.csproj.GenerateResource.cache
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\DenemeServer.csproj.CoreCompileInputs.cache
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\DenemeServer.csproj.CopyComplete
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\DenemeServer.exe
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\DenemeServer.pdb
+C:\Users\sbila\OneDrive\Masaüstü\EzgiDenemeServer-20230608T104501Z-001\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\DenemeServer.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\bin\Debug\DenemeClient.exe.config
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\bin\Debug\DenemeClient.exe
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\bin\Debug\DenemeClient.pdb
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\obj\Debug\DenemeClient.Form1.resources
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\obj\Debug\DenemeClient.Properties.Resources.resources
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\obj\Debug\DenemeClient.csproj.GenerateResource.cache
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\obj\Debug\DenemeClient.csproj.CoreCompileInputs.cache
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\obj\Debug\DenemeClient.csproj.CopyComplete
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\obj\Debug\DenemeClient.exe
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\obj\Debug\DenemeClient.pdb
+C:\Users\sbila\Downloads\EzgiDenemeClient-20230331T191956Z-001\EzgiDenemeClient\EzgiDenemeClient\obj\Debug\DenemeClient.csproj.AssemblyReference.cache

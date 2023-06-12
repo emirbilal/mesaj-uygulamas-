@@ -1,0 +1,30 @@
+c:\users\ugur.taysi\documents\visual studio 2015\Projects\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\EzgiDenemeServer.exe.config
+c:\users\ugur.taysi\documents\visual studio 2015\Projects\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\EzgiDenemeServer.exe
+c:\users\ugur.taysi\documents\visual studio 2015\Projects\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\EzgiDenemeServer.pdb
+c:\users\ugur.taysi\documents\visual studio 2015\Projects\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.Form1.resources
+c:\users\ugur.taysi\documents\visual studio 2015\Projects\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.Properties.Resources.resources
+c:\users\ugur.taysi\documents\visual studio 2015\Projects\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.csproj.GenerateResource.Cache
+c:\users\ugur.taysi\documents\visual studio 2015\Projects\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.exe
+c:\users\ugur.taysi\documents\visual studio 2015\Projects\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.pdb
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\EzgiDenemeServer.exe.config
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.exe
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.pdb
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\EzgiDenemeServer.exe
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\EzgiDenemeServer.pdb
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.Form1.resources
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.Properties.Resources.resources
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.csproj.GenerateResource.Cache
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.csprojResolveAssemblyReference.cache
+C:\Users\ugur.taysi\Desktop\ablam ayakkabı\Stajyer\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\EzgiDenemeServer.exe.config
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\EzgiDenemeServer.exe
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\EzgiDenemeServer.pdb
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.Form1.resources
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.exe
+C:\Users\Lenovo\Desktop\staj eüaş\Barış - Bilal\EzgiDenemeServer\EzgiDenemeServer\obj\Debug\EzgiDenemeServer.pdb
